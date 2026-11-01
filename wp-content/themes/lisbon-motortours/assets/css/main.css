@@ -858,3 +858,8 @@ footer span {
 .footer-logo {
   text-transform: uppercase;
 }
+
+.tours-past-title {
+  margin-top: 4rem;
+  font-size: 2rem;
+}

@@ -1,4 +1,4 @@
-# Lisbon MotorTours: pré-visualização no portfolio
+﻿# Lisbon MotorTours: pré-visualização no portfolio
 
 Este guia põe o site Lisbon MotorTours como **pré-visualização de cliente** no teu portfolio WordPress Multisite (ver o README do portfolio, secções 4 e 5).
 
@@ -39,7 +39,7 @@ No portfolio: **Portfolio → Client previews**.
 ## 5. Rever o conteúdo
 
 - **Tours → Tour aos Cárpatos!**: caixa **Tour details** com datas, lugares, preço, os três PDFs e, opcionalmente, o shortcode do formulário (por exemplo `[fluentform id="5"]`). Sem shortcode aparece um botão de email para o email de administração do site.
-- **Datas**: o tour tem as datas do site no Local, 13 a 21 de junho de 2026. A página Tours só mostra tours que ainda não começaram, por isso fica vazia até pores datas futuras.
+- **Datas**: o tour tem as datas do site no Local, 13 a 21 de junho de 2026. Como já passaram, aparece em "Tours anteriores" (a página Tours mostra primeiro os futuros e depois os anteriores).
 - **Programme PDF**: é o PDF que está no site no Local ("Seleções do Reader's Digest"), que parece ser de teste. Troca-o pelo programa real.
 - Página **Contact**: o formulário foi retirado (era Fluent Forms). Se o instalares na pré-visualização, cola o shortcode no bloco de texto da coluna da direita.
 

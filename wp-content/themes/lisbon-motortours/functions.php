@@ -197,18 +197,19 @@ add_action('save_post_tour', function ($post_id) {
     }
 });
 
-// Upcoming tours first, in date order. Dates are stored as Ymd, so they compare as numbers.
-function lmt_upcoming_tours_query() {
+// Tours that start on/after today (">=", soonest first) or before today ("<", latest first).
+// Dates are stored as Ymd, so they compare as numbers.
+function lmt_tours_query($compare, $order) {
     return new WP_Query([
         'post_type'      => 'tour',
         'posts_per_page' => -1,
         'meta_key'       => 'tour_date',
         'orderby'        => 'meta_value_num',
-        'order'          => 'ASC',
+        'order'          => $order,
         'meta_query'     => [[
             'key'     => 'tour_date',
             'value'   => current_time('Ymd'),
-            'compare' => '>=',
+            'compare' => $compare,
             'type'    => 'NUMERIC',
         ]],
     ]);
