@@ -1,0 +1,13 @@
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "landingPage": "/",
+  "login": true,
+  "steps": [
+    { "step": "installPlugin", "pluginData": { "resource": "wordpress.org/plugins", "slug": "wordpress-importer" } },
+    {
+      "step": "runPHP",
+      "code": "<?php require '/wordpress/wp-load.php'; update_option('blogname', 'Lisbon MotorTours'); update_option('blogdescription', 'Motorcycle adventures across the World'); switch_theme('lisbon-motortours'); update_option('permalink_structure', '/%postname%/');"
+    },
+    { "step": "runPHP", "code": "<?php require '/wordpress/dev/seed.php';" }
+  ]
+}

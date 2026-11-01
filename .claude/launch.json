@@ -1,0 +1,20 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "wordpress-playground",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": [
+        "-y",
+        "@wp-playground/cli@3.1.61",
+        "server",
+        "--port=9403",
+        "--blueprint=./dev/blueprint.json",
+        "--mount=./wp-content/themes/lisbon-motortours:/wordpress/wp-content/themes/lisbon-motortours",
+        "--mount=./dev:/wordpress/dev",
+        "--mount=./media:/wordpress/media"
+      ],
+      "port": 9403
+    }
+  ]
+}

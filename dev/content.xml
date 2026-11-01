@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+  xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+  <title>Lisbon MotorTours</title>
+  <link>https://lisbonmotortours.invalid</link>
+  <description>Motorcycle adventures across the World</description>
+  <language>pt-PT</language>
+  <wp:wxr_version>1.2</wp:wxr_version>
+  <wp:base_site_url>https://lisbonmotortours.invalid</wp:base_site_url>
+  <wp:base_blog_url>https://lisbonmotortours.invalid</wp:base_blog_url>
+
+  <item>
+    <title><![CDATA[Lisbon MotorTours]]></title>
+    <link>https://lisbonmotortours.invalid/image/</link>
+    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=1</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1</wp:post_id>
+    <wp:post_date><![CDATA[2025-12-26 20:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_date_gmt>
+    <wp:post_modified><![CDATA[2025-12-26 20:00:00]]></wp:post_modified>
+    <wp:post_modified_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_modified_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[image]]></wp:post_name>
+    <wp:status><![CDATA[inherit]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[attachment]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:attachment_url><![CDATA[https://raw.githubusercontent.com/T3lmo/lisbonmotortours/main/media/image.png]]></wp:attachment_url>
+  </item>
+
+  <item>
+    <title><![CDATA[Cárpatos]]></title>
+    <link>https://lisbonmotortours.invalid/gm251010a-1920w/</link>
+    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=2</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>2</wp:post_id>
+    <wp:post_date><![CDATA[2025-12-26 20:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_date_gmt>
+    <wp:post_modified><![CDATA[2025-12-26 20:00:00]]></wp:post_modified>
+    <wp:post_modified_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_modified_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[gm251010a-1920w]]></wp:post_name>
+    <wp:status><![CDATA[inherit]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[attachment]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:attachment_url><![CDATA[https://raw.githubusercontent.com/T3lmo/lisbonmotortours/main/media/GM251010A-1920w.webp]]></wp:attachment_url>
+  </item>
+
+  <item>
+    <title><![CDATA[Home]]></title>
+    <link>https://lisbonmotortours.invalid/home/</link>
+    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=3</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>3</wp:post_id>
+    <wp:post_date><![CDATA[2025-12-26 20:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_date_gmt>
+    <wp:post_modified><![CDATA[2025-12-26 20:00:00]]></wp:post_modified>
+    <wp:post_modified_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_modified_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[home]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+
+  <item>
+    <title><![CDATA[About]]></title>
+    <link>https://lisbonmotortours.invalid/about/</link>
+    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=4</guid>
+    <description></description>
+    <content:encoded><![CDATA[<!-- wp:paragraph -->
+<p><strong>Bem Vindos à Lisbon MotorTours!</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Somos uma empresa especializada em <strong><em>mototurismo</em></strong>, com uma equipa experiente na organização de eventos de carácter lúdico e de lazer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Centramos o nosso foco em tours na <strong><em>Roménia</em></strong> com <strong><em>moto própria</em></strong> ou de em <strong><em>MotoRent</em></strong>, podemos desenvolver <strong><em>Tours por medida</em></strong>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Reúne amigos, familiares e parte à aventura em total segurança e conforto, deixando toda a logística para nós.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>O nosso objetivo é garantir a <strong><em>satisfação</em></strong> dos participantes, para isso, aderimos aos mais rigorosos padrões de qualidade e <strong><em>segurança</em></strong>.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Oferecer um serviço profissional e competitivo é a nossa premissa.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Temos uma equipa eficiente, confiável e profissional, conhecedora dos destinos e serviços de que propomos, assegurando com toda a confiança a qualidade dos nossos produtos.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Consulte-nos e descubra as nossas propostas!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>4</wp:post_id>
+    <wp:post_date><![CDATA[2025-12-26 20:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_date_gmt>
+    <wp:post_modified><![CDATA[2025-12-26 20:00:00]]></wp:post_modified>
+    <wp:post_modified_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_modified_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[about]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>1</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+
+  <item>
+    <title><![CDATA[Contact]]></title>
+    <link>https://lisbonmotortours.invalid/contact/</link>
+    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=5</guid>
+    <description></description>
+    <content:encoded><![CDATA[<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"className":"section-title"} -->
+<h2 class="wp-block-heading section-title">Lisbon MotorTours</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>R. Mártires de Timor 24, 2685-331 Prior Velho</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Email: <a href="mailto:info@lisbonmotortours.pt">info@lisbonmotortours.pt</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Phone: +351 965 44 55</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10434.134833601109!2d-9.131869136514336!3d38.78763491068905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd19326e05db3ce7%3A0xeb71da59251984d2!2sLisbon%20Motorcycles!5e1!3m2!1spt-PT!2spt!4v1766542224401!5m2!1spt-PT!2spt" width="600" height="450" style="border:0;max-width:100%" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Mapa"></iframe>
+<!-- /wp:html --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"className":"section-title"} -->
+<h2 class="wp-block-heading section-title">What can we do for you?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Escreva-nos para <a href="mailto:info@lisbonmotortours.pt">info@lisbonmotortours.pt</a>. (Formulário: adicionar aqui o shortcode do Fluent Forms ou do Contact Form 7.)</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>5</wp:post_id>
+    <wp:post_date><![CDATA[2025-12-26 20:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_date_gmt>
+    <wp:post_modified><![CDATA[2025-12-26 20:00:00]]></wp:post_modified>
+    <wp:post_modified_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_modified_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[contact]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>2</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+
+  <item>
+    <title><![CDATA[Terms]]></title>
+    <link>https://lisbonmotortours.invalid/terms/</link>
+    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=6</guid>
+    <description></description>
+    <content:encoded><![CDATA[<!-- wp:image {"id":44,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/T3lmo/lisbonmotortours/main/media/image.png" alt="" class="wp-image-44"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Termos e Condições, política de cancelamento e reembolso, pgd</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Objeto</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1.1 As presentes Condições Gerais contratuais destinam-se a estabelecer os termos e condições por que se regerá a prestação dos serviços de viagens/ tours/ eventos organizados pela Simbiose Sonora, Unipessoal Lda.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1.2. Os termos constantes das Condições Particulares, caso existam, prevalecem sobre o disposto nas presentes Condições Gerais prevalecendo sobre ambas quaisquer estipulações adicionais escritas especialmente acordadas entre o participante e a Simbiose Sonora, Unipessoal Lda.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1.3. Os serviços e produtos são oferecidos ao participante nos termos e condições aqui expressos.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1.4. Ao acordar com a Simbiose Sonora, Unipessoal Lda., o participante reconhece e aceita todos os termos e condições estabelecidos.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Inscrições&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.1. No ato da inscrição o participante deverá depositar 30% do valor da viagem, liquidando os restantes 70% até 45 dias antes do início da viagem, salvo outras condições em tempo útil.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.2. Se a inscrição ou reserva para a viagem vier a ter lugar a 35 dias antes ou menos da data de partida, o preço total deverá ser pago no ato da inscrição, ficando esta condicionada à obtenção por parte dos fornecedores da confirmação das reservas para a totalidade dos serviços.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.3. Por qualquer alteração à inscrição na viagem a pedido do participante a Simbiose Sonora, Unipessoal Lda., reserva-se o direito de cobrar uma taxa de alteração nos termos do previsto no Ponto 3.1. infra.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.4. Sem prejuízo da quantia a pagar pelo participante para as despesas a efetuar com as reservas necessárias à confirmação da inscrição e que acrescem ao preço da viagem, o participante fica ainda obrigado ao pagamento de todos os gastos de cancelamento, nos termos do ponto 8. destas Condições Gerais, caso venha a desistir da viagem.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.5. A Simbiose Sonora, unipessoal Lda., reserva-se o direito de anular qualquer inscrição cujo pagamento não tenha sido efetuado nas condições acima mencionadas.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.6 Para se inscrever em qualquer atividade, deverá efetuar, obrigatoriamente, a sua reserva, via formulário de reserva ou por correio eletrónico, mencionando de que neste ato está a efetuar a compra do serviço solicitado e a concordar com as Condições Gerais e Específicas da atividade. Desta forma, assume o compromisso de pagar a totalidade dos serviços prestados na atividade para a qual efetuou a sua reserva.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Reservas&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.1. Às reservas, taxas de serviço, alterações de reservas e restantes serviços será aplicado o valor constante das tabelas que se encontrarem em vigor em cada momento, acrescidos dos valores cobrados pelos fornecedores, nomeadamente, nos casos de alterações.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.2. O formulário referente a reserva ou solicitação do serviço deverá conter todos os elementos necessários para o processamento da mesma.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.3. Os preços referidos em 3.1. são devidos por cada pedido de reserva, prestação de serviços ou de fornecimento de bens e produtos e serão debitados ao participante no momento da aceitação da reserva, pedido de prestação de serviços ou fornecimento de bens e produtos pela Simbiose Sonora, Unipessoal Lda.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.4 Os preços referidos em 3.1. não serão reembolsados ao Cliente em caso de não utilização ou gozo do serviço ou bem objeto de reserva, bem como por qualquer outro motivo que não seja imputável à Simbiose Sonora, Unipessoal Lda.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.5 Após efetuar a reserva deverá proceder ao pagamento da atividade para a qual se inscreveu, de acordo com os termos do evento. No caso de atividades calendarizadas de um dia, o pagamento poderá ser efetuado por MB, ou, no caso de atividades que envolvem parceiros locais, o pagamento deverá ser feito previamente e por transferência bancária. O pagamento prévio das atividades, quando solicitado, deverá ser feito por transferência bancária para o IBAN indicado no e-mail automático que receberá em resposta à sua reserva, sendo necessário o envio do respectivo comprovativo para o e- mail. Caso pretenda a emissão de Recibo com o seu NIF deverá solicitar-nos no ato de pagamento da atividade.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Alterações de Preço&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4.1. A Simbiose Sonora, Unipessoal Lda., reserva-se o direito de, até 30 dias antes da data da viagem, alterar o preço da viagem se este aumento se deve a variações no custo dos operadores, dos direitos, impostos ou taxas cobráveis ou em flutuações cambiais, devendo comunicar tal facto ao cliente.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4.2. A alteração será calculada com base proporcional às variações dos preços dos fatores que influenciaram a mesma alteração.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4.3. A não-aceitação do aumento do preço da viagem, nos termos da lei, confere ao participante o direito a anular a sua inscrição nos mesmos termos e condições que os previstos na rubrica 8.3..</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Reembolsos&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5.1 Depois de iniciada a viagem, não será devido qualquer reembolso por serviços não utilizados pelo participante. A não prestação de serviços previstos no programa de viagem por causas não imputáveis à Simbiose Sonora, Unipessoal Lda, nunca será objeto de reembolso sem prejuízo do disposto no número 11. destas Condições Gerais.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Cessão da Inscrição&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6.1. O participante pode ceder a sua inscrição, fazendo-se substituir por outra pessoa que preencha todas as condições requeridas para a viagem, desde que informe a Simbiose Sonora, Unipessoal Lda, por escrito, com pelo menos 15 dias de antecedência e que os diferentes fornecedores de serviços incluídos na viagem aceitem a substituição.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6.2. Quando se trate de viagens aéreas de longo curso, o prazo acima referido será de 25 dias.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6.3. A cessão da inscrição responsabiliza solidariamente o cedente e o cessionário pelo pagamento do preço e dos encargos adicionais originados pela cessão.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Imposto de IVA&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7.1. O Imposto sobre o Valor Acrescentado, IVA à taxa legal de 23%, aplicável à data da viagem, não está incluído no preço do serviço / tour / evento. Todos os valores apresentados são em preço net. (valor sem IVA).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Desistências&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A todo o momento e até ao máximo 35 dias antes da data da partida o participante poderá desistir da viagem/ Tour / evento, mediante comunicação escrita, tendo direito à devolução das quantias pagas deduzidas dos seguintes gastos:&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8.1. Gastos de gestão para a obtenção das reservas e ainda um valor que poderá ir até quinze por cento do preço dos serviços em causa;&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8.2. Gastos de anulação não reembolsáveis por parte dos fornecedores (hotéis, meios de transporte, visitas acompanhadas e demais serviços), a partir desta data não serão reembolsadas quaisquer importâncias.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8.3. Desistências depois de 35 dias da data do início do evento não têm direito a qualquer devolução, todos os serviços estão pagos e os mesmos não são reembolsáveis.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Reclamações&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9.1. Somente poderão ser consideradas desde que apresentadas por escrito em um prazo não superior a 20 dias após o término da prestação dos serviços.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9.2. As mesmas só poderão ser aceites desde que tenham sido participadas aos fornecedores dos serviços (hotéis, guias, agentes locais, etc.) durante o decurso da viagem ou estada, exigindo dos mesmos os respetivos documentos comprovativos da ocorrência.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9.3. A não entrega atempada da participação e dos documentos referidos constitui causa de exoneração da responsabilidade da Simbiose Sonora, Unipessoal Lda.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Alterações&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10.1. Sempre que existam razões fundamentadas que o justifiquem, a Simbiose Sonora, Unipessoal Lda., poderá alterar as condições que constam do Programa, nomeadamente a ordem dos percursos, as horas de partida ou substituir qualquer dos alojamentos previstos por outros de categoria e localização similar.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10.2 Alterações ao programa do tour por fenómenos naturais, catástrofes, tsunamis, furacões, chuvas torrenciais, terramotos, pandemias, epidemias, ou outros dentro destas circunstâncias excepcionais, e alheias à Simbiose Sonora, Unipessoal Lda., serão avaliadas consoante a circunstância e sua resolução, através das alterações de data ou outras formas, a fim de minimizar as perdas dos valores pagos pelos participantes.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10.3 Se se vier a revelar a impossibilidade de execução total do tour, sem que possa ser imputado à Simbiose Sonora, Unipessoal Lda., qualquer responsabilidade sobre o mesmo, o participante será reembolsado pela totalidade da devolução que os operadores efetuem, sem qualquer garantia de valores.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. Anulações do Programa.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A Simbiose Sonora, Unipessoal Lda., reserva-se o direito de cancelar a viagem organizada caso o número de participantes seja inferior ao mínimo exigido constante no programa.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Nestes casos, o participante será informado por escrito com pelo menos 25 dias de antecedência, ficando a Simbiose Sonora, Unipessoal Lda., exonerada de qualquer responsabilidade pelo cancelamento. A Simbiose Sonora, Unipessoal Lda., reserva-se o direito de cancelar as atividades nos seguintes casos:&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Não estão reunidos os participantes mínimos exigidos para cada atividade; as condições meteorológicas ou outras a tornem impraticável; não estão reunidas condições de segurança; não estão reunidas as condições previstas nas condições particulares;&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>No caso de atividades de apenas 1 dia, receberá o reembolso integral se efetuar o cancelamento até 72 horas antes do início da atividade e caso na sequência da reserva feita, não tenha já sido assumido compromissos perante outros operadores envolvidos na atividade.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. Seguro de Grupo&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12.1 A Simbiose Sonora, Unipessoal Lda., tem em todos os seus tours um seguro de grupo (vulgo) multirriscos, para os participantes pelo que a apólice e suas coberturas pode e deve ser consultada bastando para tal a sua solicitação.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12.2 Contudo a Simbiose Sonora, Unipessoal Lda., aconselha todos os participantes a terem o seu próprio seguro com as coberturas que acharem mais importantes e abrangentes de acordo com o que acharem ser as suas necessidades e em função da sua viagem.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12.3 Caso seja do interesse do participante a Simbiose Sonora, Unipessoal Lda., pode informar (mediante a solicitação) das companhias existentes para este efeito.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12.4 Nunca em momento algum pode ser imputada qualquer responsabilidade que não esteja abrangida pela apólice de grupo da Simbiose Sonora, Unipessoal Lda.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12.5. Em caso de acidente motorizado, o participante deve sempre acionar o seu seguro pessoal ou do veículo, o seguro de grupo só é acionado em casos fora de acidentes com os veículos.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12.6. O seguro de acidentes pessoais não cobre qualquer acidente motorizado em On-Road ou Off-road.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sendo da inteira responsabilidade do participante e do seu seguro do veículo a cobertura e resolução do mesmo, no que diz respeito a repatriamento, despesas hospitalares, recolha do local, etc.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12.7. Todos os eventos são de carácter lúdico e de lazer, não tendo qualquer vínculo desportivo ou competitivo.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12.8 Seguro de Responsabilidade Civil, que cobre danos patrimoniais e não patrimoniais sobre terceiros e Clientes, que nos possam ser imputados no exercício da nossa atividade.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12.9 Seguro de Acidentes Pessoais, todos os participantes das nossas atividades estão cobertos por um seguro de Acidentes Pessoais, acionado em nome do Cliente.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. Acidentes e Acionamento do Seguro de Acidentes Pessoais (SAP)&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13.1 Todos os seguros detidos estarão em condições de serem acionados dentro do período de tempo em que decorre a atividade/programa em que o Cliente se inscreveu.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13.2 Estipula-se como início desse período de tempo a data e horas descritas no programa e terminará no dia e hora em que o Cliente abandonar a atividade/programa, mesmo que dela saia antecipadamente e de forma definitiva ou que a retome mais à frente.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13.3 Sempre que o Cliente desejar abandonar a atividade/programa deverá dar conhecimento disso mesmo.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13.4 São considerados acidentes passíveis de acionamento do SAP, todos aqueles que ocorrerem na sequência do normal desenvolvimento da atividade descrita no programa em que o Cliente está a participar ou em qualquer alteração introduzida ao mesmo.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13.5 Os acidentes podem não ser passíveis de acionamento do SAP, nas seguintes circunstâncias:&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13.6 Quando o Cliente, por sua iniciativa, estiver a fazer alguma atividade fora do âmbito e do normal desenvolvimento da atividade descrita no programa ou na sequência de comportamentos de risco desnecessários à atividade em que o cliente está a participar.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13.7 Quando o Cliente, por sua iniciativa e contra as indicações, decidir fazer alterações de percurso ou ao programa descrito e em que o Cliente está a participar.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13.8 Quando qualquer regra de segurança previamente estabelecida, for conscientemente ultrapassada pelo Cliente&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. 9 Todo e qualquer Acidente passível de acionamento do SAP, deve ser comunicado à Companhia de Seguros, até um máximo de 72h após a conclusão da atividade em que se deu o acidente.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A Simbiose Sonora, empresa organizadora de eventos, não assume qualquer responsabilidade, designadamente civil, por eventuais situações de diferentes naturezas e carácter, que venham a ocorrer durante os eventos realizados, quer com a viagem, deslocações, estadias ou diversos.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Desta forma a Simbiose Sonora, escusa-se de ser responsável por quaisquer danos pessoais ou ofensas à integridade física dos participantes inscritos no evento, sendo da inteira responsabilidade dos mesmos, às suas expensas a contratação dos seguros pessoais, de viagem, de saúde ou outros que entendam ser necessários para proteção de pessoas e bens. Todas as despesas com acidentes ao abrigo do seguro de grupo Multirriscos, serão reembolsadas à posteriori, pela seguradora, mediante os comprovativos de despesas, pelo que o participante deve assegurar as suas despesas e custos associados ao acidente, tais como, despesas hospitalares, medicamentos, outros custos, etc.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>14. Termo de responsabilidade&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Termo de Responsabilidade e aceitação de participação em evento / Tour&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Declaro tomar conhecimento e aceitar o seguinte:&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A. Ser maior de idade e com plena capacidade para declarar que eu li, e compreendi e aceitar a os termos e condições&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>B. Quero participar livremente no evento / tour e a quando da minha inscrição aceitei as regras e termos e condições de funcionamento dos mesmos.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>C. Compreendo e aceito os riscos inerentes à participação em tal atividade decorrente tanto quanto à condução de um veículo para as várias atividades e como ao atendimento no próprio evento / tour, ainda assim, aceito participar no evento e receber de bom grado as indicações dadas pela organização no decorrer do mesmo.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>D. Eu entendo e concordo que nem os organizadores nem qualquer das pessoas que colaboraram com a organização podem ser responsabilizados, sob nenhuma circunstância, pela lesão, morte ou outros danos que possam ocorrer como resultado da minha participação neste evento, ou como resultado da negligência de qualquer das partes, incluindo incidentes que possam surgir com todos os serviços contratados.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>E. Declaro que tenho em vigor o seguro obrigatório por lei para o meu veículo e que o mesmo cumpre todas as normas de segurança legais e de responsabilidade civil.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>F. Além disso, ilibar os organizadores, parceiros e patrocinadores do evento de quaisquer ações judiciais ou reclamações que possam ser trazidos por mim, minha família, herdeiros ou pessoas que possam legalmente me representar como resultado da minha participação na mesma.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>G. Todos os inscritos nos eventos / tours da Simbiose Sonora, Unipessoal Lda., têm de ler e aceitar o regulamento do evento / tour a quando da sua inscrição.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>H. Deve comunicar sempre caso padeça de alguma doença crônica ou outra que o impeça de praticar esta atividade. Caso tenha permissão do seu médico para poder participar terá de nos entregar um atestado médico.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I. Que se encontra consciente do tipo de exigências físicas e psicológicas que a atividade envolve e que poderão levar a situações extremas e imprevistas.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>15. Assistência em Viagem&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>15.1 Toda e qualquer viatura ou pessoa participante tem de ter obrigatoriamente a sua assistência em viagem válida, o apoio prestado pela Simbiose Sonora, Unipessoal Lda., a pessoas e veículos fica sempre condicionado aos meios no momento e até um ponto em que o participante possa acionar os seus próprios meios de apoio e assistência.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>15.2 Viatura de apoio e assistência.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A viatura de acompanhamento ao tour, presta um serviço de apoio aos participantes e viaturas dentro dos meios disponibilizados, e sempre de acordo com as circunstâncias do momento, nunca sendo responsável por transporte de motas avariadas, ou para repatriamento.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>15.3 Transporte de bagagens em viagem.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>15.4 As bagagens / malas / sacos etc. podem seguir na viatura de apoio a partir do 1º hotel, do início do tour, e até ao último hotel, de final do tour, contudo a viatura de apoio, não transporta bagagens na travessia de fronteiras, devido à responsabilidade individual sobre a sua bagagem, que cabe a cada participante.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>15.5 Todos os participantes têm de ser responsáveis pela sua bagagem em caso de necessidade de transporte, por impossibilidade da viatura de apoio.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>16. Os programas de Fim de Semana, Expedições e Grandes Viagens, tem como objetivo, tal como o nome sugere, viajar para locais longínquos e remotos, que possuem estilos e condições de vida diferentes da que estamos habituados, pelo que poderá ser uma experiência invulgar, que não nos é familiar ou confortável.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>16.1 Para este tipo de viagens de aventura devemos estar sempre preparados para enfrentar situações novas e de alguma forma imprevisíveis.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>16.2 Em alguns momentos e até quando tudo está programado, as coisas podem não correr como esperado, pelo que quando isso acontece, o respeito pelo próximo a compreensão, a boa disposição, a paciência e ponderação, serão sempre pontos a nosso favor e que nos ajudarão a ultrapassar as situações e a continuar a disfrutar da nossa viagem.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>16.3 Este tipo de viagens de aventura é destinado apenas a pessoas que têm já alguma experiência, e que estejam bem preparados física e mentalmente, para o nível de dificuldade do programa em que se quer inscrever.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>16.4 Em caso algum, deverá inscrever-se em qualquer tipo de programa, se tem algum problema físico, ou outro, que o possa de alguma forma limitar no seu desempenho, colocando assim em perigo a sua integridade física bem como a do grupo em que está integrado.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>17. Roubos; furtos.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>17.1 A responsabilidade sobre os seus pertences, são da inteira responsabilidade de cada participante, assim como em caso de roubo ou assalto à viatura de apoio, e caso nesta estejam pertences dos participantes, a Simbiose Sonora, Unipessoal Lda., não se responsabiliza pelos mesmos.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>17.2 Os participantes podem e devem usar os meios de segurança nas suas viaturas que acharem adequados, não se responsabilizando a Simbiose Sonora, Unipessoal Lda., por qualquer roubo das mesmas, assim como por qualquer roubo ou furto de qualquer equipamento ou acessório nas mesmas.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>18. Duração de atividades&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>18.1 A duração das atividades é dada apenas a título indicativo e de forma aproximada, dependendo da realidade de fatores externos aos guias. Será dada tolerância de 15 minutos para que todos os participantes se reúnam no ponto de encontro definido para cada programa e atividade.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>19. RGPD. Regulamento Geral de Proteção de dados&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Política de Privacidade&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A privacidade e proteção dos dados pessoais dos seus participantes é muito importante, pelo que desta forma assumimos o compromisso de cumprir o Regulamento Geral sobre a Proteção de Dados e de tratar os seus Dados Pessoais em conformidade com a presente Política de Privacidade. Cada vez que se relaciona com a Simbiose Sonora, Unipessoal Lda., (na subscrição de newsletter, inscrição ou participação em eventos), os dados Pessoais que nos transmitir serão tratados em conformidade com a Política de Privacidade vigente a cada momento, pelo que sugerimos que leia atentamente as referidas políticas de modo a avaliar se está de acordo com as mesmas. A disponibilização de links, é efetuada de boa-fé, não podendo a Simbiose Sonora, Unipessoal Lda., ser responsabilizada pela recolha e tratamento de dados pessoais efetuados nesses websites, nem ser responsabilizada pela exatidão, credibilidade e funcionalidade de websites pertencentes a terceiros.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Deste modo, a disponibilização de links para outros websites alheios à Simbiose Sonora, Unipessoal Lda., não implica qualquer assunção de responsabilidade relativamente aos mesmos.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A Simbiose Sonora, Unipessoal Lda., reserva-se o direito de modificar a Política de Privacidade em função de novas exigências legais e/ou regulamentares, por motivos de segurança ou com a finalidade de adaptar a referida Política às instruções das autoridades de controlo em matéria de proteção de dados. Sempre que for introduzida qualquer alteração na Política de Privacidade, o cliente ou utilizador será informado das alterações.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Responsabilidade pelo tratamento dos seus Dados Pessoais.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A Simbiose Sonora, Unipessoal Lda., é responsável pelo tratamento dos dados pessoais, cabendo a esta decidir no contexto da prestação de serviços, quais os dados pessoais recolhidos, os meios de tratamento dos dados e as finalidades para que são utilizados.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dados Pessoais que recolhemos, qual o propósito e onde os armazenamos.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A Simbiose Sonora, Unipessoal Lda., recolhe diversos tipos de Dados Pessoais em função das diferentes finalidades, recolhendo nomeadamente os seguintes:&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• Nome completo;&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• Data de nascimento;&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• Endereço de correio eletrónico;&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• Número de telefone;&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• Morada para efeitos de faturação;&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• NIF;&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• IBAN;&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• Passaporte&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• Nome da empresa (apenas para clientes empresa);&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As finalidades do tratamento dos Dados Pessoais são as seguintes:&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Marketing, poderá ser utilizado o seu endereço de correio eletrónico ou número de telefone, para comunicar consigo, enviando-lhe e-mails ou SMS, nomeadamente sobre divulgação de atividades, eventos, formações ou informação de interesse no âmbito turístico; Divulgação de promoções ou descontos na aquisição de produtos ou serviços.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Comunicação: poderá ser utilizado, os seus dados pessoais para comunicar consigo, nomeadamente, para lhe enviar notícias relacionadas com serviços e produtos, bem como para prestar assistência em aspetos&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>relacionados com a participação em eventos ou formações, (inclusive para responder e tratar pedidos e monitorização da qualidade de serviço);&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Seguro de Acidentes Pessoais: Os clientes que contratam à Simbiose Sonora, Unipessoal Lda., a participação em eventos, formações ou atividades que estejam abrangidas pelo Seguro de Acidentes Pessoais dão o seu consentimento para que possamos comunicar à Companhia de Seguros o seu Nome Completo, Data de Nascimento e Número de Identificação Fiscal.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Os Dados Pessoais recolhidos aquando da realização de uma encomenda, inscrição num evento, formação ou solicitação de prestação de serviço são necessários para efeitos de execução do respetivo contrato, pelo que, se o utilizador, de alguma forma, se opuser ao respetivo tratamento, não poderá a Simbiose Sonora, Unipessoal Lda, cumprir com a execução do contrato.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Responsabilidade sobre dados comunicados a Terceiros&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A Simbiose Sonora, Unipessoal Lda., poderá no exercício da sua atividade e no âmbito dos serviços que presta, subcontratar terceiros para a prestação de determinados serviços, como serviços de entregas/recolhas, assessoria fiscal e contabilística, marketing (incluindo, envio de SMS e mailing) ou manutenção do website e fornecedores digitais.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Nestes casos, estas empresas terceiras poderão necessitar de aceder a certa informação e dados dos titulares dos dados.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A Simbiose Sonora, Unipessoal Lda. garante que, em tais casos, estes terceiros terão um acesso limitado à informação dos titulares dos dados, restringindo unicamente àqueles dados necessários para a execução das tarefas contratadas e que foi outorgado um contrato entre as partes no qual se regula a proteção dos Dados Pessoais, estas empresas terceiras se obrigam a não revelar, por qualquer forma, os Dados Pessoais, nem a utilizá-los para fins distintos da prestação dos serviços contratados.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Armazenagem dos seus Dados Pessoais&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A Simbiose Sonora, Unipessoal Lda., guarda em servidores seguros, protegidos de acessos não autorizados, uso ou divulgação os Dados Pessoais que o utilizador fornece.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Adotamos ainda os procedimentos técnicos, eletrónicos e organizativos necessários e adequados a garantir a segurança dos seus Dados Pessoais e a prevenir a sua perda, má utilização ou acesso indevido.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A Simbiose Sonora, Unipessoal Lda., revê frequentemente as suas políticas de recolha, armazenamento e processamento de dados para garantir que apenas recolhe, armazena e processa a informação indispensável à prestação ou melhoria dos serviços.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Direitos dos utilizadores e clientes relativamente aos seus Dados Pessoais.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>De acordo com o Regulamento Geral sobre a Proteção de Dados, a Simbiose Sonora, Unipessoal Lda., compromete-se a respeitar a confidencialidade da sua informação de carácter pessoal e garantir o exercício dos seus direitos de:&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Obter informação sobre forma como usamos os seus Dados Pessoais;&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Aceder aos seus dados pessoais que tratamos e guardamos;&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Retificar os seus dados pessoais se os mesmos estiverem incorretos, desatualizados ou se pretender completá-los; solicitar que eliminemos os seus dados;&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Eliminar a subscrição da newsletter;&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Retirar o seu consentimento para o tratamento de dados.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Para solicitar o exercício de qualquer um dos direitos acima identificados, deverá enviar uma comunicação de correio eletrónico.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Período de Conservação dos Dados Pessoais&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Apenas guardamos os Dados Pessoais pelo tempo necessário para atingir a finalidade para a qual os mesmos foram recolhidos, para responder às suas necessidades ou para cumprir com as nossas obrigações legais.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Contatos relativos à Proteção dos Dados Pessoais&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Na sua estrutura organizativa, a Simbiose Sonora, Unipessoal Lda., conta com um Responsável de Proteção de Dados Pessoais – “Data Protection Officer”, que assume a responsabilidade pela execução e cumprimento das normas legais e regulamentares aplicáveis em matéria de tratamento de dados pessoais e que é responsável designadamente pela manutenção e desenvolvimento da Política de Segurança, Confidencialidade, Sigilo e Proteção de dados pessoais.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>20. Transporte</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Os itinerários estão incluídos nos programas apenas como indicação sendo o trajeto passível de alteração. Nos serviços por nós prestados, salvo indicação expressa do contrário não está incluído qualquer tipo de transporte ou transfere.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>20.1 A Simbiose Sonora, Unipessoal Lda., dispõe de livro de reclamações eletrónico.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>20.2 Resolução de Litígios&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A União Europeia criou um site para apoiar os consumidores a apresentarem as suas reclamações sobre qualquer litígio em que estejam envolvidos. Neste âmbito disponibilizamos toda a informação para que possa exercer o seu direito de reclamação junto de uma entidade oficial, terceira e imparcial ao processo, («entidade de resolução de litígios») que o ajudará a resolver o litígio em questão.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A resolução alternativa de litígios é a possibilidade que todos os consumidores têm ao seu dispor de recorrer às entidades oficiais que os ajudem na resolução, ou orientação de algum conflito, antes de abrirem processos litigiosos nos Tribunais. Regra geral, o procedimento é o seguinte: o cliente pede a um terceiro imparcial que intervenha como intermediário entre si e o comerciante que é o alvo da sua reclamação. O intermediário pode sugerir uma solução para a sua reclamação, impor uma solução a ambas as partes ou reunir as partes para encontrar uma solução.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Talvez conheça o conceito de resolução alternativa de litígios por outro nome: ‘mediação’, ‘conciliação’, ‘arbitragem’ ou ‘comissão competente no âmbito dos litígios de consumo’.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A resolução alternativa de litígios é, por norma, menos dispendiosa, menos formal e mais rápida do que a via judicial.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Em caso de litígio de consumo, o consumidor pode recorrer às seguintes entidades de resolução alternativa de litígios de consumo:&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>CNIACC – Centro Nacional de Informação e Arbitragem de Conflitos de Consumo&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>http://www.arbitragemdeconsumo.org/&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Conforme Lei n.o 144/2015 para resolução de litígios.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>6</wp:post_id>
+    <wp:post_date><![CDATA[2025-12-26 20:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_date_gmt>
+    <wp:post_modified><![CDATA[2025-12-26 20:00:00]]></wp:post_modified>
+    <wp:post_modified_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_modified_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[terms]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>3</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+
+  <item>
+    <title><![CDATA[Tour aos Cárpatos!]]></title>
+    <link>https://lisbonmotortours.invalid/tour-aos-carpatos/</link>
+    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=7</guid>
+    <description></description>
+    <content:encoded><![CDATA[<span style="font-weight: 400;">Prepare-se para cavalgar por lendas e paisagens de tirar o fôlego, onde a história medieval se funde com o prazer da condução nas estradas mais míticas da Roménia.</span>
+<h3><b>Bucovina: A Terra dos Frescos Pintados</b></h3>
+<span style="font-weight: 400;">Deixe o seu motor levá-lo para norte, onde a paisagem se transforma em colinas ondulantes e florestas densas que guardam um tesouro cultural único.</span>
+<ul>
+ 	<li style="font-weight: 400;" aria-level="1"><b>Mosteiros Pintados:</b><span style="font-weight: 400;"> Descubra os famosos Mosteiros de Bucovina (</span><b>Moldovița</b><span style="font-weight: 400;">, </span><b>Sucevița</b><span style="font-weight: 400;"> e </span><b>Voroneț</b><span style="font-weight: 400;">, a "Capela Sistina do Oriente"), classificados pela UNESCO. As suas fachadas exteriores, totalmente cobertas de frescos coloridos, contam histórias bíblicas e históricas de forma viva e espetacular.</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><b>A Estrada Transraraul:</b><span style="font-weight: 400;"> Desfrute do prazer de conduzir no </span><b>Transraraul</b><span style="font-weight: 400;"> (também conhecido como Ciumarna Pass), uma estrada panorâmica que serpenteia pelas montanhas Rarau, oferecendo vistas idílicas sobre a natureza virgem da Moldávia romena.</span></li>
+</ul>
+<h3><b>Transilvânia: O Reino do Asfalto e das Lendas</b></h3>
+<span style="font-weight: 400;">Aqui, cada curva é um convite e cada quilómetro percorrido é uma imersão num mundo de castelos imponentes e cidades saxónicas encantadoras.</span>
+<ul>
+ 	<li style="font-weight: 400;" aria-level="1"><b>Estradas Míticas:</b><span style="font-weight: 400;"> Domine as curvas desafiantes da famosa </span><b>Transfăgărășan</b><span style="font-weight: 400;"> e da espetacular </span><b>Transalpina</b><span style="font-weight: 400;">, consideradas por muitos como algumas das melhores estradas para motards do mundo. Picos vertiginosos, paisagens alpinas e a sensação pura de liberdade esperam por si.</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><b>Cidades Medievais:</b><span style="font-weight: 400;"> Percorra as ruelas de paralelepípedos de </span><b>Sighisoara</b><span style="font-weight: 400;"> (Património Mundial da UNESCO), o berço de Vlad, o Empalador (Drácula), e a vibrante </span><b>Brasov</b><span style="font-weight: 400;">, aninhada sob as montanhas dos Cárpatos.</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><b>Castelos de Conto de Fadas:</b><span style="font-weight: 400;"> Sinta a mística no </span><b>Castelo de Bran</b><span style="font-weight: 400;"> (o Castelo do Drácula) e maravilhe-se com a elegância real do </span><b>Castelo de Peleș</b><span style="font-weight: 400;">, em Sinaia.</span></li>
+</ul>
+<h3><b>Porquê escolher este Tour?</b></h3>
+<ul>
+ 	<li style="font-weight: 400;" aria-level="1"><b>Condução Eletrizante:</b><span style="font-weight: 400;"> Roteiros cuidadosamente planeados para maximizar o prazer da condução em estradas de montanha de sonho.</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><b>Cultura e História:</b><span style="font-weight: 400;"> Uma viagem que é tanto uma aventura sobre rodas quanto uma lição de história, desvendando os mitos e o património da Roménia.</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><b>Experiência Inesquecível:</b><span style="font-weight: 400;"> Prepare-se para memórias que durarão uma vida, ao cruzar alguns dos cenários mais dramáticos e belos da Europa de Leste.</span></li>
+</ul>
+<b>Está pronto para ligar o motor e seguir o rasto do Drácula e dos segredos pintados da Bucovina?</b>]]></content:encoded>
+    <excerpt:encoded><![CDATA[Prepare-se para cavalgar por lendas e paisagens de tirar o fôlego, onde a história medieval se funde com o prazer da condução nas estradas mais míticas da Roménia.]]></excerpt:encoded>
+    <wp:post_id>7</wp:post_id>
+    <wp:post_date><![CDATA[2025-12-26 20:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_date_gmt>
+    <wp:post_modified><![CDATA[2025-12-26 20:00:00]]></wp:post_modified>
+    <wp:post_modified_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_modified_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[tour-aos-carpatos]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[tour]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[2]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[tour_date]]></wp:meta_key>
+      <wp:meta_value><![CDATA[20270612]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[tour_end_date]]></wp:meta_key>
+      <wp:meta_value><![CDATA[20270620]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[tour_price]]></wp:meta_key>
+      <wp:meta_value><![CDATA[2500]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[tour_max_riders]]></wp:meta_key>
+      <wp:meta_value><![CDATA[12]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[tour_programa]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[tour_termos]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://raw.githubusercontent.com/T3lmo/lisbonmotortours/main/media/temrs.pdf]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[tour_brochura]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://raw.githubusercontent.com/T3lmo/lisbonmotortours/main/media/brochura_carpatos_harley.pdf]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[tour_form]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[pexels-fernanda-w-corso-2149339004-32031408-1]]></title>
+    <link>https://lisbonmotortours.invalid/pexels-fernanda-w-corso-2149339004-32031408-1/</link>
+    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=8</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>8</wp:post_id>
+    <wp:post_date><![CDATA[2025-12-26 20:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_date_gmt>
+    <wp:post_modified><![CDATA[2025-12-26 20:00:00]]></wp:post_modified>
+    <wp:post_modified_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_modified_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[pexels-fernanda-w-corso-2149339004-32031408-1]]></wp:post_name>
+    <wp:status><![CDATA[inherit]]></wp:status>
+    <wp:post_parent>7</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[attachment]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:attachment_url><![CDATA[https://raw.githubusercontent.com/T3lmo/lisbonmotortours/main/media/pexels-fernanda-w-corso-2149339004-32031408-1.jpg]]></wp:attachment_url>
+  </item>
+
+  <item>
+    <title><![CDATA[Carpatos-1]]></title>
+    <link>https://lisbonmotortours.invalid/carpatos-1/</link>
+    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=9</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>9</wp:post_id>
+    <wp:post_date><![CDATA[2025-12-26 20:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_date_gmt>
+    <wp:post_modified><![CDATA[2025-12-26 20:00:00]]></wp:post_modified>
+    <wp:post_modified_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_modified_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[carpatos-1]]></wp:post_name>
+    <wp:status><![CDATA[inherit]]></wp:status>
+    <wp:post_parent>7</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[attachment]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:attachment_url><![CDATA[https://raw.githubusercontent.com/T3lmo/lisbonmotortours/main/media/Carpatos-1.jpg]]></wp:attachment_url>
+  </item>
+
+  <item>
+    <title><![CDATA[Carpatos-montanha-trekking-01_ctRovC6-1]]></title>
+    <link>https://lisbonmotortours.invalid/carpatos-montanha-trekking-01_ctrovc6-1/</link>
+    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=10</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>10</wp:post_id>
+    <wp:post_date><![CDATA[2025-12-26 20:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_date_gmt>
+    <wp:post_modified><![CDATA[2025-12-26 20:00:00]]></wp:post_modified>
+    <wp:post_modified_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_modified_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[carpatos-montanha-trekking-01_ctrovc6-1]]></wp:post_name>
+    <wp:status><![CDATA[inherit]]></wp:status>
+    <wp:post_parent>7</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[attachment]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:attachment_url><![CDATA[https://raw.githubusercontent.com/T3lmo/lisbonmotortours/main/media/Carpatos-montanha-trekking-01_ctRovC6-1.jpg]]></wp:attachment_url>
+  </item>
+</channel>
+</rss>
