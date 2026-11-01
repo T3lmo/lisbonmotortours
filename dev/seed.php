@@ -37,6 +37,7 @@ foreach ( array( 'GM251010A-1920w.webp', 'pexels-fernanda-w-corso-2149339004-320
 set_post_thumbnail( $tour->ID, $thumb );
 
 $home = get_page_by_path( 'home' );
+update_option( 'blogdescription', 'Motorcycle adventure across Romania' );
 update_option( 'show_on_front', 'page' );
 update_option( 'page_on_front', $home->ID );
 flush_rewrite_rules( false );

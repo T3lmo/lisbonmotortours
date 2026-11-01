@@ -62,6 +62,14 @@ function lisbonmotortours_menu_fallback() {
     echo '</ul>';
 }
 
+/** Menu links from the demo content file point at a placeholder address; send them to this site. */
+add_filter('wp_setup_nav_menu_item', function ($item) {
+    if ('custom' === $item->type && 0 === strpos($item->url, 'https://lisbonmotortours.invalid/')) {
+        $item->url = home_url(substr($item->url, strlen('https://lisbonmotortours.invalid')));
+    }
+    return $item;
+});
+
 /* ---------- Tours ---------- */
 
 function register_tours_cpt() {

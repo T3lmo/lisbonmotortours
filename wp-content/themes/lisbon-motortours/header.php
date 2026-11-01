@@ -21,6 +21,7 @@
         <?php
         wp_nav_menu([
             'theme_location' => 'main-menu',
+            'menu'           => has_nav_menu('main-menu') ? '' : 'main-menu',
             'container'      => false,
             'menu_class'     => 'nav-links',
             'fallback_cb'    => 'lisbonmotortours_menu_fallback',

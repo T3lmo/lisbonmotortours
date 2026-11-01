@@ -21,7 +21,7 @@ const cdata = (s) => `<![CDATA[${esc(s)}]]>`;
 let nextId = 1;
 const items = [];
 
-function item({ title, name, type, content = '', excerpt = '', parent = 0, order = 0, date, status = 'publish', meta = {}, attachmentUrl }) {
+function item({ title, name, type, content = '', excerpt = '', parent = 0, order = 0, date, status = 'publish', meta = {}, attachmentUrl, menu }) {
   const id = nextId++;
   items.push(`
   <item>
@@ -44,7 +44,8 @@ function item({ title, name, type, content = '', excerpt = '', parent = 0, order
     <wp:menu_order>${order}</wp:menu_order>
     <wp:post_type>${cdata(type)}</wp:post_type>
     <wp:post_password>${cdata('')}</wp:post_password>
-    <wp:is_sticky>0</wp:is_sticky>${attachmentUrl ? `
+    <wp:is_sticky>0</wp:is_sticky>${menu ? `
+    <category domain="nav_menu" nicename="${menu}">${cdata('Main Menu')}</category>` : ''}${attachmentUrl ? `
     <wp:attachment_url>${cdata(attachmentUrl)}</wp:attachment_url>` : ''}${Object.entries(meta).map(([k, v]) => `
     <wp:postmeta>
       <wp:meta_key>${cdata(k)}</wp:meta_key>
@@ -63,14 +64,9 @@ const logo = attach('image.png', 'Lisbon MotorTours');
 const thumb = attach('GM251010A-1920w.webp', 'Cárpatos');
 
 // ---- pages
-item({ title: 'Home', name: 'home', type: 'page', date: DATE });
+const home = item({ title: posts[5][5], name: 'home', type: 'page', date: DATE, content: posts[5][4].replace(/<!-- wp:spacer[\s\S]*?<!-- \/wp:spacer -->\s*/g, '').trim() });
 
-item({
-  title: 'About', name: 'about', type: 'page', date: DATE, order: 1,
-  content: posts[24][4].replace(/<!-- wp:spacer[\s\S]*?<!-- \/wp:spacer -->\s*/g, '').replace(/<!-- wp:paragraph -->\s*<p><\/p>\s*<!-- \/wp:paragraph -->\s*$/, '').trim(),
-});
-
-item({
+const contact = item({
   title: 'Contact', name: 'contact', type: 'page', date: DATE, order: 2,
   content: `<!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
@@ -108,20 +104,30 @@ item({
 });
 
 const termsContent = posts[28][4].split(OLD_UPLOADS + 'image-1024x329.png').join(MEDIA_BASE + 'image.png');
-item({ title: 'Terms', name: 'terms', type: 'page', date: DATE, order: 3, content: termsContent });
+const terms = item({ title: 'Terms', name: 'terms', type: 'page', date: DATE, order: 3, content: termsContent });
+
+// ---- menu (same order as on the Local site)
+const menuItem = (order, fields) => item({ title: '', name: String(order), type: 'nav_menu_item', date: DATE, order, menu: 'main-menu', meta: { _menu_item_menu_item_parent: '0', _menu_item_target: '', _menu_item_classes: 'a:1:{i:0;s:0:"";}', _menu_item_xfn: '', _menu_item_url: '', ...fields } });
+menuItem(1, { _menu_item_type: 'post_type', _menu_item_object: 'page', _menu_item_object_id: String(home) });
+// The importer drops post-type-archive menu items, so Tours is a custom link; the theme points it at this site (see lmt_menu_site_url).
+menuItem(2, { _menu_item_type: 'custom', _menu_item_object: 'custom', _menu_item_object_id: '0', _menu_item_url: SITE + '/tours/' });
+items[items.length - 1] = items[items.length - 1].replace('<title><![CDATA[]]></title>', '<title><![CDATA[Tours]]></title>');
+menuItem(3, { _menu_item_type: 'post_type', _menu_item_object: 'page', _menu_item_object_id: String(contact) });
+menuItem(5, { _menu_item_type: 'post_type', _menu_item_object: 'page', _menu_item_object_id: String(terms) });
 
 // ---- tour
-// The original dates (13-21 June 2026) are in the past, so the archive would hide the tour. Shifted a year for the demo.
+// Same data as the Local site. Note: the tours page only lists tours that have not started yet.
 const t = posts[102];
+const tm = Object.fromEntries(table(sql, 'postmeta').filter((m) => m[1] === '102').map((m) => [m[2], m[3]]));
 const tour = item({
   title: t[5], name: t[11], type: 'tour', date: DATE, content: t[4], excerpt: t[6],
   meta: {
     _thumbnail_id: String(thumb),
-    tour_date: '20270612',
-    tour_end_date: '20270620',
-    tour_price: '2500',
-    tour_max_riders: '12',
-    tour_programa: '',
+    tour_date: tm.tour_date,
+    tour_end_date: tm.tour_end_date,
+    tour_price: tm.tour_price,
+    tour_max_riders: tm.tour_max_riders,
+    tour_programa: MEDIA_BASE + 'Seleccoes-do-Readers-Digest.pdf',
     tour_termos: MEDIA_BASE + 'temrs.pdf',
     tour_brochura: MEDIA_BASE + 'brochura_carpatos_harley.pdf',
     tour_form: '',
@@ -141,11 +147,12 @@ const xml = `<?xml version="1.0" encoding="UTF-8" ?>
 <channel>
   <title>Lisbon MotorTours</title>
   <link>${SITE}</link>
-  <description>Motorcycle adventures across the World</description>
+  <description>Motorcycle adventure across Romania</description>
   <language>pt-PT</language>
   <wp:wxr_version>1.2</wp:wxr_version>
   <wp:base_site_url>${SITE}</wp:base_site_url>
   <wp:base_blog_url>${SITE}</wp:base_blog_url>
+  <wp:term><wp:term_id>1</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>main-menu</wp:term_slug><wp:term_name>${cdata('Main Menu')}</wp:term_name></wp:term>
 ${items.join('\n')}
 </channel>
 </rss>

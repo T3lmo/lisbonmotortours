@@ -8,11 +8,12 @@
 <channel>
   <title>Lisbon MotorTours</title>
   <link>https://lisbonmotortours.invalid</link>
-  <description>Motorcycle adventures across the World</description>
+  <description>Motorcycle adventure across Romania</description>
   <language>pt-PT</language>
   <wp:wxr_version>1.2</wp:wxr_version>
   <wp:base_site_url>https://lisbonmotortours.invalid</wp:base_site_url>
   <wp:base_blog_url>https://lisbonmotortours.invalid</wp:base_blog_url>
+  <wp:term><wp:term_id>1</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>main-menu</wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name></wp:term>
 
   <item>
     <title><![CDATA[Lisbon MotorTours]]></title>
@@ -63,32 +64,9 @@
   </item>
 
   <item>
-    <title><![CDATA[Home]]></title>
+    <title><![CDATA[About]]></title>
     <link>https://lisbonmotortours.invalid/home/</link>
     <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=3</guid>
-    <description></description>
-    <content:encoded><![CDATA[]]></content:encoded>
-    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-    <wp:post_id>3</wp:post_id>
-    <wp:post_date><![CDATA[2025-12-26 20:00:00]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_date_gmt>
-    <wp:post_modified><![CDATA[2025-12-26 20:00:00]]></wp:post_modified>
-    <wp:post_modified_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_modified_gmt>
-    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
-    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
-    <wp:post_name><![CDATA[home]]></wp:post_name>
-    <wp:status><![CDATA[publish]]></wp:status>
-    <wp:post_parent>0</wp:post_parent>
-    <wp:menu_order>0</wp:menu_order>
-    <wp:post_type><![CDATA[page]]></wp:post_type>
-    <wp:post_password><![CDATA[]]></wp:post_password>
-    <wp:is_sticky>0</wp:is_sticky>
-  </item>
-
-  <item>
-    <title><![CDATA[About]]></title>
-    <link>https://lisbonmotortours.invalid/about/</link>
-    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=4</guid>
     <description></description>
     <content:encoded><![CDATA[<!-- wp:paragraph -->
 <p><strong>Bem Vindos à Lisbon MotorTours!</strong></p>
@@ -122,17 +100,17 @@
 <p>Consulte-nos e descubra as nossas propostas!</p>
 <!-- /wp:paragraph -->]]></content:encoded>
     <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-    <wp:post_id>4</wp:post_id>
+    <wp:post_id>3</wp:post_id>
     <wp:post_date><![CDATA[2025-12-26 20:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_date_gmt>
     <wp:post_modified><![CDATA[2025-12-26 20:00:00]]></wp:post_modified>
     <wp:post_modified_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_modified_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
     <wp:ping_status><![CDATA[closed]]></wp:ping_status>
-    <wp:post_name><![CDATA[about]]></wp:post_name>
+    <wp:post_name><![CDATA[home]]></wp:post_name>
     <wp:status><![CDATA[publish]]></wp:status>
     <wp:post_parent>0</wp:post_parent>
-    <wp:menu_order>1</wp:menu_order>
+    <wp:menu_order>0</wp:menu_order>
     <wp:post_type><![CDATA[page]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
@@ -141,7 +119,7 @@
   <item>
     <title><![CDATA[Contact]]></title>
     <link>https://lisbonmotortours.invalid/contact/</link>
-    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=5</guid>
+    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=4</guid>
     <description></description>
     <content:encoded><![CDATA[<!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
@@ -177,7 +155,7 @@
 <!-- /wp:column --></div>
 <!-- /wp:columns -->]]></content:encoded>
     <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-    <wp:post_id>5</wp:post_id>
+    <wp:post_id>4</wp:post_id>
     <wp:post_date><![CDATA[2025-12-26 20:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_date_gmt>
     <wp:post_modified><![CDATA[2025-12-26 20:00:00]]></wp:post_modified>
@@ -196,7 +174,7 @@
   <item>
     <title><![CDATA[Terms]]></title>
     <link>https://lisbonmotortours.invalid/terms/</link>
-    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=6</guid>
+    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=5</guid>
     <description></description>
     <content:encoded><![CDATA[<!-- wp:image {"id":44,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/T3lmo/lisbonmotortours/main/media/image.png" alt="" class="wp-image-44"/></figure>
@@ -830,7 +808,7 @@
 <p>Conforme Lei n.o 144/2015 para resolução de litígios.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
     <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-    <wp:post_id>6</wp:post_id>
+    <wp:post_id>5</wp:post_id>
     <wp:post_date><![CDATA[2025-12-26 20:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_date_gmt>
     <wp:post_modified><![CDATA[2025-12-26 20:00:00]]></wp:post_modified>
@@ -847,9 +825,233 @@
   </item>
 
   <item>
+    <title><![CDATA[]]></title>
+    <link>https://lisbonmotortours.invalid/1/</link>
+    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=6</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>6</wp:post_id>
+    <wp:post_date><![CDATA[2025-12-26 20:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_date_gmt>
+    <wp:post_modified><![CDATA[2025-12-26 20:00:00]]></wp:post_modified>
+    <wp:post_modified_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_modified_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[1]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>1</wp:menu_order>
+    <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+      <wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+      <wp:meta_value><![CDATA[page]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[3]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[Tours]]></title>
+    <link>https://lisbonmotortours.invalid/2/</link>
+    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=7</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>7</wp:post_id>
+    <wp:post_date><![CDATA[2025-12-26 20:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_date_gmt>
+    <wp:post_modified><![CDATA[2025-12-26 20:00:00]]></wp:post_modified>
+    <wp:post_modified_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_modified_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[2]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>2</wp:menu_order>
+    <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://lisbonmotortours.invalid/tours/]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+      <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+      <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[]]></title>
+    <link>https://lisbonmotortours.invalid/3/</link>
+    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=8</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>8</wp:post_id>
+    <wp:post_date><![CDATA[2025-12-26 20:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_date_gmt>
+    <wp:post_modified><![CDATA[2025-12-26 20:00:00]]></wp:post_modified>
+    <wp:post_modified_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_modified_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[3]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>3</wp:menu_order>
+    <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+      <wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+      <wp:meta_value><![CDATA[page]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[4]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[]]></title>
+    <link>https://lisbonmotortours.invalid/5/</link>
+    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=9</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>9</wp:post_id>
+    <wp:post_date><![CDATA[2025-12-26 20:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_date_gmt>
+    <wp:post_modified><![CDATA[2025-12-26 20:00:00]]></wp:post_modified>
+    <wp:post_modified_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_modified_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[5]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>5</wp:menu_order>
+    <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+      <wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+      <wp:meta_value><![CDATA[page]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[5]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+
+  <item>
     <title><![CDATA[Tour aos Cárpatos!]]></title>
     <link>https://lisbonmotortours.invalid/tour-aos-carpatos/</link>
-    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=7</guid>
+    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=10</guid>
     <description></description>
     <content:encoded><![CDATA[<span style="font-weight: 400;">Prepare-se para cavalgar por lendas e paisagens de tirar o fôlego, onde a história medieval se funde com o prazer da condução nas estradas mais míticas da Roménia.</span>
 <h3><b>Bucovina: A Terra dos Frescos Pintados</b></h3>
@@ -873,7 +1075,7 @@
 </ul>
 <b>Está pronto para ligar o motor e seguir o rasto do Drácula e dos segredos pintados da Bucovina?</b>]]></content:encoded>
     <excerpt:encoded><![CDATA[Prepare-se para cavalgar por lendas e paisagens de tirar o fôlego, onde a história medieval se funde com o prazer da condução nas estradas mais míticas da Roménia.]]></excerpt:encoded>
-    <wp:post_id>7</wp:post_id>
+    <wp:post_id>10</wp:post_id>
     <wp:post_date><![CDATA[2025-12-26 20:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_date_gmt>
     <wp:post_modified><![CDATA[2025-12-26 20:00:00]]></wp:post_modified>
@@ -893,11 +1095,11 @@
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[tour_date]]></wp:meta_key>
-      <wp:meta_value><![CDATA[20270612]]></wp:meta_value>
+      <wp:meta_value><![CDATA[20260613]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[tour_end_date]]></wp:meta_key>
-      <wp:meta_value><![CDATA[20270620]]></wp:meta_value>
+      <wp:meta_value><![CDATA[20260621]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[tour_price]]></wp:meta_key>
@@ -909,7 +1111,7 @@
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[tour_programa]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
+      <wp:meta_value><![CDATA[https://raw.githubusercontent.com/T3lmo/lisbonmotortours/main/media/Seleccoes-do-Readers-Digest.pdf]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[tour_termos]]></wp:meta_key>
@@ -928,11 +1130,11 @@
   <item>
     <title><![CDATA[pexels-fernanda-w-corso-2149339004-32031408-1]]></title>
     <link>https://lisbonmotortours.invalid/pexels-fernanda-w-corso-2149339004-32031408-1/</link>
-    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=8</guid>
+    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=11</guid>
     <description></description>
     <content:encoded><![CDATA[]]></content:encoded>
     <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-    <wp:post_id>8</wp:post_id>
+    <wp:post_id>11</wp:post_id>
     <wp:post_date><![CDATA[2025-12-26 20:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_date_gmt>
     <wp:post_modified><![CDATA[2025-12-26 20:00:00]]></wp:post_modified>
@@ -941,7 +1143,7 @@
     <wp:ping_status><![CDATA[closed]]></wp:ping_status>
     <wp:post_name><![CDATA[pexels-fernanda-w-corso-2149339004-32031408-1]]></wp:post_name>
     <wp:status><![CDATA[inherit]]></wp:status>
-    <wp:post_parent>7</wp:post_parent>
+    <wp:post_parent>10</wp:post_parent>
     <wp:menu_order>0</wp:menu_order>
     <wp:post_type><![CDATA[attachment]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
@@ -952,11 +1154,11 @@
   <item>
     <title><![CDATA[Carpatos-1]]></title>
     <link>https://lisbonmotortours.invalid/carpatos-1/</link>
-    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=9</guid>
+    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=12</guid>
     <description></description>
     <content:encoded><![CDATA[]]></content:encoded>
     <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-    <wp:post_id>9</wp:post_id>
+    <wp:post_id>12</wp:post_id>
     <wp:post_date><![CDATA[2025-12-26 20:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_date_gmt>
     <wp:post_modified><![CDATA[2025-12-26 20:00:00]]></wp:post_modified>
@@ -965,7 +1167,7 @@
     <wp:ping_status><![CDATA[closed]]></wp:ping_status>
     <wp:post_name><![CDATA[carpatos-1]]></wp:post_name>
     <wp:status><![CDATA[inherit]]></wp:status>
-    <wp:post_parent>7</wp:post_parent>
+    <wp:post_parent>10</wp:post_parent>
     <wp:menu_order>0</wp:menu_order>
     <wp:post_type><![CDATA[attachment]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
@@ -976,11 +1178,11 @@
   <item>
     <title><![CDATA[Carpatos-montanha-trekking-01_ctRovC6-1]]></title>
     <link>https://lisbonmotortours.invalid/carpatos-montanha-trekking-01_ctrovc6-1/</link>
-    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=10</guid>
+    <guid isPermaLink="false">https://lisbonmotortours.invalid/?p=13</guid>
     <description></description>
     <content:encoded><![CDATA[]]></content:encoded>
     <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-    <wp:post_id>10</wp:post_id>
+    <wp:post_id>13</wp:post_id>
     <wp:post_date><![CDATA[2025-12-26 20:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2025-12-26 20:00:00]]></wp:post_date_gmt>
     <wp:post_modified><![CDATA[2025-12-26 20:00:00]]></wp:post_modified>
@@ -989,7 +1191,7 @@
     <wp:ping_status><![CDATA[closed]]></wp:ping_status>
     <wp:post_name><![CDATA[carpatos-montanha-trekking-01_ctrovc6-1]]></wp:post_name>
     <wp:status><![CDATA[inherit]]></wp:status>
-    <wp:post_parent>7</wp:post_parent>
+    <wp:post_parent>10</wp:post_parent>
     <wp:menu_order>0</wp:menu_order>
     <wp:post_type><![CDATA[attachment]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>

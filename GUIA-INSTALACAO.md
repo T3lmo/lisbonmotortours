@@ -7,7 +7,7 @@ Este guia põe o site Lisbon MotorTours como **pré-visualização de cliente** 
 | Ficheiro | Para quê |
 |---|---|
 | `dist/lisbon-motortours.zip` | O tema (aspeto, tours e campos dos tours). Já não precisa de ACF nem de plugins. |
-| `lisbon-motortours-conteudo.xml` | Páginas (Home, About, Contact, Terms), o tour de exemplo e as imagens |
+| `lisbon-motortours-conteudo.xml` | Páginas (a página inicial, Contact, Terms), o menu, o tour e as imagens. Vem dos dados atuais do site no Local (exportado em 1 nov 2026) |
 | `media/` | Imagens e PDFs que o XML importa. **Têm de estar no GitHub antes de importar** (ver passo 3). |
 
 ## 1. Criar a pré-visualização
@@ -31,16 +31,16 @@ No portfolio: **Portfolio → Client previews**.
 
 ## 4. Definições do site
 
-- **Settings → General**: Site Title `Lisbon MotorTours`, Tagline `Motorcycle adventures across the World`.
+- **Settings → General**: Site Title `Lisbon MotorTours`, Tagline `Motorcycle adventure across Romania`.
 - **Settings → Reading**: "A static page" e escolhe **Home** como Homepage.
 - **Settings → Permalinks**: "Post name" e guardar.
-- **Appearance → Menus** (opcional): o tema mostra Home, Tours, About, Contact e Terms sozinho. Só é preciso criar um menu para mudar isso, e atribuí-lo a "Main Menu".
+- **Menu**: o importador traz o menu "Main Menu" (About, Tours, Contact, Terms) e o tema usa-o sozinho. Podes mudá-lo em **Appearance → Menus**.
 
 ## 5. Rever o conteúdo
 
 - **Tours → Tour aos Cárpatos!**: caixa **Tour details** com datas, lugares, preço, os três PDFs e, opcionalmente, o shortcode do formulário (por exemplo `[fluentform id="5"]`). Sem shortcode aparece um botão de email para o email de administração do site.
-- As datas do tour de exemplo foram passadas para **12 a 20 de junho de 2027**, porque as de 2026 já tinham passado e a página Tours só mostra tours futuros. Muda-as para as datas reais.
-- Campo **Programme PDF** vazio: o programa que existia na base de dados era um PDF de teste.
+- **Datas**: o tour tem as datas do site no Local, 13 a 21 de junho de 2026. A página Tours só mostra tours que ainda não começaram, por isso fica vazia até pores datas futuras.
+- **Programme PDF**: é o PDF que está no site no Local ("Seleções do Reader's Digest"), que parece ser de teste. Troca-o pelo programa real.
 - Página **Contact**: o formulário foi retirado (era Fluent Forms). Se o instalares na pré-visualização, cola o shortcode no bloco de texto da coluna da direita.
 
 ## 6. Adicionar ao portfolio
